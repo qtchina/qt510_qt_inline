@@ -1,0 +1,11 @@
+
+f1777162ba9e876da789f39ef88e6783eb275cb8  qt510_linux_x64.tar.bz2
+293a0c6c812b57f17f6a9aea2c15c44e81ed0b4d  qt510_macos_x64_xcode9.3.tar.bz2
+f126919367e64b56114d1b4d21cac6efc9fd4ae2  qt510_win_x64.tar.bz2
+1e82020e381e54d18bebb91860202b9c4335e040  qt510_android_arm7.tar.bz2
+383c167b21dc8ba7909dc2beab67961e3674f7cd  qt510_linux_x64_static.tar.bz2
+a5964d9ecc54b6476fcc3305529d53e8f431d556  qt510_win_x32.tar.bz2
+c8999c555c9acbee613f3897f45d2dc3f095bb64  qt510_win_x64_static.tar.bz2
+dd44a155d5156286f68a5c58f0654a6b32212cdb  qt510_android_x86.tar.bz2
+ee20d032f8803e6529063729b7a6b054754abaee  qt510_macos_x64_xcode8.3.tar.bz2
+a340ac2f7c57650b312e21faa1d5de859dcaed93  qt510_win_x32_static.tar.bz2
